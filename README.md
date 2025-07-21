@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IrfanGalib
-- 👀 I’m interested in Blockchaine
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in Blockchain
+- 🌱 I’m currently FUll-Stack Web Development
 - 📫 Mail me on workwithirfanc@gmail.com
 
 <!---
