@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @IrfanGalib
+- 👋 Hi, I’m Irfan Chowdhury Galib
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently FUll-Stack Web Development
+- 🌱 I’m currently learning FUll-Stack Web Development
 - 📫 Mail me on workwithirfanc@gmail.com
 
 <!---
