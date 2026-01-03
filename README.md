@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Irfan Chowdhury Galib
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning FULL-Stack Web Development
-- 📫 Mail me on workwithirfanc@gmail.com
+- 👋 Hi, I’m Irfan Chowdhury Galib  
+- 👀 I’m interested in Blockchain, Web3 & Full-Stack Development  
+- 🌱 I’m currently learning and building with the MERN Stack (MongoDB, Express, React, Node.js)  
+- 💻 Passionate about writing clean, modular code and building intuitive full-stack applications  
+- 🚀 I’ve worked on open-source projects like a task manager app and an e-commerce prototype  
+- 🤝 I enjoy problem-solving, collaboration, and continuous learning  
+- 📫 Mail me at: workwithirfanc@gmail.com  
 
 <!---
-IrfanGalib/IrfanGalib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+IrfanGalib/IrfanGalib is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
