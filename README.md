@@ -42,31 +42,36 @@
 ```text
 XP Progress
 ██████████████████░░░░░░ 78%
-🏆 Every project = XP gained
-🔥 Consistency streak = bonus XP
 
-📊 Skill Proficiency Meters
+# 📊 Skill Proficiency Meters
 Frontend
-
-text
-Copy code
 HTML/CSS        ██████████████████░░ 90%
 JavaScript      █████████████████░░░ 85%
 React           ████████████████░░░░ 80%
 TailwindCSS     █████████████████░░░ 85%
-Backend
 
-text
-Copy code
+Backend
 Node.js         ███████████████░░░░░ 75%
 Express.js      ███████████████░░░░░ 75%
 MongoDB         ██████████████░░░░░░ 70%
 JWT/Auth        ███████████████░░░░░ 75%
-Tools & Platforms
 
-text
-Copy code
+Tools & Platforms
 Git/GitHub      █████████████████░░░ 85%
 Firebase        ███████████████░░░░░ 75%
 Vercel          █████████████████░░░ 85%
 Figma/Design    ████████████████░░░░ 80%
+
+
+
+# 🌐 Socials (Badges)
+
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://twitter.com/irfan_galib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a> <a href="https://linkedin.com/in/irfan-chowdhury-galib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a> <a href="https://fb.com/irfannft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a> <a href="https://instagram.com/irfannft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a> </p>
+
+#💻 Tech Stack
+<!-- BADGES -->
+
+<!-- ICONS --> <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> </p>
+
+#📊 GitHub Stats
+<p align="center"> 🔥 <strong>LEVEL UP • BUILD • REPEAT</strong> 🔥 </p> <!--- IrfanGalib/IrfanGalib is a ✨ special ✨ repository because its README.md appears on your GitHub profile. --->
