@@ -38,41 +38,25 @@
 
 # 📊 GitHub Stats:
 
-<div align="center" style="background-color:#121212; padding:30px; border-radius:20px; display:inline-block; max-width:650px; border: 3px solid #00ffcc;">
+<div align="center">
 
-  <h2 style="color:#00ffcc; font-family:monospace;">🕹 My GitHub RPG Dashboard</h2>
+## 🕹 My GitHub RPG Dashboard
 
-  <!-- GitHub Stats -->
-  <div style="background-color:#1e1e2f; padding:15px; border-radius:15px; margin:15px 0; border: 2px solid #ff00ff;">
-    <h3 style="color:#ff00ff; font-family:monospace;">💻 GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=irfangalib&theme=dark&hide_border=true&count_private=false" 
-         style="border-radius:10px;"/>
-  </div>
+### 💻 GitHub Stats
+![Irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfangalib&theme=dark&count_private=true)
 
-  <!-- Streak Stats -->
-  <div style="background-color:#1e1e2f; padding:15px; border-radius:15px; margin:15px 0; border: 2px solid #00ff00;">
-    <h3 style="color:#00ff00; font-family:monospace;">🔥 Streak</h3>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfangalib&theme=dark" 
-         style="border-radius:10px;"/>
-  </div>
+### 🔥 Streak
+![Irfan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=irfangalib&theme=dark)
 
-  <!-- Top Languages -->
-  <div style="background-color:#1e1e2f; padding:15px; border-radius:15px; margin:15px 0; border: 2px solid #ffcc00;">
-    <h3 style="color:#ffcc00; font-family:monospace;">🛠 Top Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfangalib&theme=dark&hide_border=true" 
-         style="border-radius:10px;"/>
-  </div>
+### 🛠 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfangalib&theme=dark&hide_border=true)
 
-  <!-- Achievements / Badges -->
-  <div style="background-color:#1e1e2f; padding:10px; border-radius:15px; margin:15px 0; border: 2px solid #ff00ff;">
-    <h3 style="color:#ff00ff; font-family:monospace;">🏆 Achievements</h3>
-    <img src="https://img.shields.io/badge/3%20Zero%20Leader-Completed-blueviolet" style="margin:3px;"/>
-    <img src="https://img.shields.io/badge/WEB3-Hackathon-success" style="margin:3px;"/>
-    <img src="https://img.shields.io/badge/Fusion%20Infotech-Experience-green" style="margin:3px;"/>
-  </div>
+### 🏆 Achievements
+![Badge](https://img.shields.io/badge/3%20Zero%20Leader-Completed-blueviolet)
+![Badge](https://img.shields.io/badge/WEB3-Hackathon-success)
+![Badge](https://img.shields.io/badge/Fusion%20Infotech-Experience-green)
 
 </div>
-
 
 
 
