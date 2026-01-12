@@ -1,73 +1,72 @@
-<h1 align="center">🎮 Hi 👋, I'm Irfan Chowdhury</h1>
-<h3 align="center">🚀 Explorer of Blockchain, Web3 & Full-Stack Development</h3>
+<!-- ====================== HERO SECTION ====================== -->
+
+<h1 align="center">Hi 👋, I'm Irfan Chowdhury</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=irfangalib&label=Profile%20Views&color=0e75b6&style=flat" alt="irfangalib" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Blockchain+%7C+Web3+%7C+Full-Stack+Developer;MERN+Stack+Builder;Always+Learning+%7C+Always+Leveling+Up" />
 </p>
 
+<h3 align="center">I’m interested in Blockchain, Web3 & Full-Stack Development</h3>
+
 <p align="center">
-  <a href="https://twitter.com/irfan_galib" target="_blank">
+⚡ <strong>FULL POWER MODE</strong> ⚡
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=irfangalib&label=Profile%20views&color=0e75b6&style=flat" alt="irfangalib" />
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/irfan_galib" target="blank">
     <img src="https://img.shields.io/twitter/follow/irfan_galib?logo=twitter&style=for-the-badge" alt="irfan_galib" />
   </a>
 </p>
 
 ---
 
-## 🧠 Player Profile
-- 💻 **Class:** MERN Stack Developer (Beginner → Leveling Up)
-- 🧩 **Playstyle:** Clean code, modular architecture, user-focused design
-- 🚀 **Completed Quests:** Task Manager App, E-commerce Prototype (Open Source)
-- 🤝 **Co-op Mode:** Team collaboration, Git/GitHub, problem-solving
-- 🌱 **Current Training:** MERN Stack (MongoDB, Express, React, Node.js)
+## 🧠 About Me
 
-📫 **Contact Portal:** `workwithirfanc@gmail.com`
-
----
-
-## 🌐 Social Hub
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Irfannft)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anto3156)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/irfannft)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irfannft)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfan-chowdhury-galib)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Irfan_Galib)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:workwithirfanc@gmail.com)
+- 💻 Passionate about writing clean, modular code and building intuitive full-stack applications  
+- 🚀 I’ve worked on open-source projects like a task manager app and an e-commerce prototype  
+- 🤝 I enjoy problem-solving, collaboration, and continuous learning  
+- 🌱 I’m currently learning and building with the **MERN Stack (MongoDB, Express, React, Node.js)**  
+- 📫 How to reach me **workwithirfanc@gmail.com**
 
 ---
 
-## 🛠️ Skill Inventory (Unlocked)
-### 🧱 Core Tech
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 🎮 LEVEL UP — Developer Progress System
 
-### ⚙️ MERN Arsenal
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb)
+**Current Level:** `Lv. 7 – MERN Adventurer`  
+**Next Level:** `Lv. 8 – Full-Stack Specialist`
 
-### 🎨 Design Powers
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+```text
+XP Progress
+██████████████████░░░░░░ 78%
+🏆 Every project = XP gained
+🔥 Consistency streak = bonus XP
 
-### 🚀 Deployment & Tools
-![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/netlify-000000?style=for-the-badge&logo=netlify)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
+📊 Skill Proficiency Meters
+Frontend
 
----
+text
+Copy code
+HTML/CSS        ██████████████████░░ 90%
+JavaScript      █████████████████░░░ 85%
+React           ████████████████░░░░ 80%
+TailwindCSS     █████████████████░░░ 85%
+Backend
 
-## 📊 Player Stats
-![](https://github-readme-stats.vercel.app/api?username=irfangalib&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=irfangalib&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=irfangalib&theme=dark&layout=compact)
+text
+Copy code
+Node.js         ███████████████░░░░░ 75%
+Express.js      ███████████████░░░░░ 75%
+MongoDB         ██████████████░░░░░░ 70%
+JWT/Auth        ███████████████░░░░░ 75%
+Tools & Platforms
 
----
-
-## 🎯 Current Mission
-> Build scalable MERN applications, contribute to open-source, explore Web3 & AI, and level up every single day.
-
-⭐ **Achievement Unlocked:** Continuous Learner
+text
+Copy code
+Git/GitHub      █████████████████░░░ 85%
+Firebase        ███████████████░░░░░ 75%
+Vercel          █████████████████░░░ 85%
+Figma/Design    ████████████████░░░░ 80%
