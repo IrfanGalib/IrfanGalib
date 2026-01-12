@@ -32,55 +32,6 @@
 - 🌱 I’m currently learning and building with the **MERN Stack (MongoDB, Express, React, Node.js)**  
 - 📫 How to reach me **workwithirfanc@gmail.com**
 
----
-
-## 🎮 LEVEL UP — Developer Progress System
-
-**Current Level:** `Lv. 7 – MERN Adventurer`  
-**Next Level:** `Lv. 8 – Full-Stack Specialist`
-
-```text
-XP Progress
-██████████████████░░░░░░ 78%
-
-# 📊 Skill Proficiency Meters
-Frontend
-HTML/CSS        ██████████████████░░ 90%
-JavaScript      █████████████████░░░ 85%
-React           ████████████████░░░░ 80%
-TailwindCSS     █████████████████░░░ 85%
-
-Backend
-Node.js         ███████████████░░░░░ 75%
-Express.js      ███████████████░░░░░ 75%
-MongoDB         ██████████████░░░░░░ 70%
-JWT/Auth        ███████████████░░░░░ 75%
-
-Tools & Platforms
-Git/GitHub      █████████████████░░░ 85%
-Firebase        ███████████████░░░░░ 75%
-Vercel          █████████████████░░░ 85%
-Figma/Design    ████████████████░░░░ 80%
-
-
-
-
-- <h1 align="center">Hi 👋, I'm Irfan Chowdhury</h1>
-<h3 align="center">I’m interested in Blockchain, Web3 & Full-Stack Development</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfangalib&label=Profile%20views&color=0e75b6&style=flat" alt="irfangalib" /> </p>
-
-<p align="left"> <a href="https://twitter.com/irfan_galib" target="blank"><img src="https://img.shields.io/twitter/follow/irfan_galib?logo=twitter&style=for-the-badge" alt="irfan_galib" /></a> </p>
-- 💻 Passionate about writing clean, modular code and building intuitive full-stack applications  
-- 🚀 I’ve worked on open-source projects like a task manager app and an e-commerce prototype  
-- 🤝 I enjoy problem-solving, collaboration, and continuous learning  
-
-- 🌱  I’m currently learning and building with the **MERN Stack (MongoDB, Express, React, Node.js)**
-
-- 📫 How to reach me **workwithirfanc@gmail.com**
-
-
-
 ## 🌐 Socials:
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Irfannft)
@@ -156,4 +107,34 @@ Figma/Design    ████████████████░░░░ 80%
 ![GitHub Streak](https://streak-stats.demolab.com?user=irfangalib&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfangalib&layout=compact&theme=dark)
+
+---
+
+## 🎮 LEVEL UP — Developer Progress System
+
+**Current Level:** `Lv. 7 – MERN Adventurer`  
+**Next Level:** `Lv. 8 – Full-Stack Specialist`
+
+```text
+XP Progress
+██████████████████░░░░░░ 78%
+
+# 📊 Skill Proficiency Meters
+Frontend
+HTML/CSS        ██████████████████░░ 90%
+JavaScript      █████████████████░░░ 85%
+React           ████████████████░░░░ 80%
+TailwindCSS     █████████████████░░░ 85%
+
+Backend
+Node.js         ███████████████░░░░░ 75%
+Express.js      ███████████████░░░░░ 75%
+MongoDB         ██████████████░░░░░░ 70%
+JWT/Auth        ███████████████░░░░░ 75%
+
+Tools & Platforms
+Git/GitHub      █████████████████░░░ 85%
+Firebase        ███████████████░░░░░ 75%
+Vercel          █████████████████░░░ 85%
+Figma/Design    ████████████████░░░░ 80%
 
