@@ -1,10 +1,18 @@
-- 👋 Hi, I’m Irfan Chowdhury Galib  
-- 👀 I’m interested in Blockchain, Web3 & Full-Stack Development  
-- 🌱 I’m currently learning and building with the MERN Stack (MongoDB, Express, React, Node.js)  
+- <h1 align="center">Hi 👋, I'm Irfan Chowdhury</h1>
+<h3 align="center">I’m interested in Blockchain, Web3 & Full-Stack Development</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfangalib&label=Profile%20views&color=0e75b6&style=flat" alt="irfangalib" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfangalib" alt="irfangalib" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/irfan_galib" target="blank"><img src="https://img.shields.io/twitter/follow/irfan_galib?logo=twitter&style=for-the-badge" alt="irfan_galib" /></a> </p>
 - 💻 Passionate about writing clean, modular code and building intuitive full-stack applications  
 - 🚀 I’ve worked on open-source projects like a task manager app and an e-commerce prototype  
 - 🤝 I enjoy problem-solving, collaboration, and continuous learning  
-- 📫 Mail me at: workwithirfanc@gmail.com  
+
+- 🌱  I’m currently learning and building with the **MERN Stack (MongoDB, Express, React, Node.js)**
+
+- 📫 How to reach me **workwithirfanc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
