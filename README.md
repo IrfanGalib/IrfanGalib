@@ -40,35 +40,35 @@
 
 <div align="center" style="background-color:#121212; padding:30px; border-radius:20px; display:inline-block; max-width:650px; border: 3px solid #00ffcc;">
 
-  <h2 style="color:#00ffcc; font-family:monospace; text-shadow: 0 0 5px #00ffcc;">🕹 My GitHub RPG Dashboard</h2>
+  <h2 style="color:#00ffcc; font-family:monospace;">🕹 My GitHub RPG Dashboard</h2>
 
-  <!-- Commits & Stats Panel -->
+  <!-- GitHub Stats -->
   <div style="background-color:#1e1e2f; padding:15px; border-radius:15px; margin:15px 0; border: 2px solid #ff00ff;">
-    <h3 style="color:#ff00ff; font-family:monospace; margin-bottom:10px;">💻 GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=irfangalib&theme=radical&hide_border=true&count_private=false" 
+    <h3 style="color:#ff00ff; font-family:monospace;">💻 GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=irfangalib&theme=dark&hide_border=true&count_private=false" 
          style="border-radius:10px;"/>
   </div>
 
-  <!-- Streak Panel -->
+  <!-- Streak Stats -->
   <div style="background-color:#1e1e2f; padding:15px; border-radius:15px; margin:15px 0; border: 2px solid #00ff00;">
-    <h3 style="color:#00ff00; font-family:monospace; margin-bottom:10px;">🔥 Streak</h3>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=irfangalib&theme=radical&hide_border=true" 
+    <h3 style="color:#00ff00; font-family:monospace;">🔥 Streak</h3>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfangalib&theme=dark" 
          style="border-radius:10px;"/>
   </div>
 
-  <!-- Top Languages Panel -->
+  <!-- Top Languages -->
   <div style="background-color:#1e1e2f; padding:15px; border-radius:15px; margin:15px 0; border: 2px solid #ffcc00;">
-    <h3 style="color:#ffcc00; font-family:monospace; margin-bottom:10px;">🛠 Top Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfangalib&theme=radical&hide_border=true&layout=compact" 
+    <h3 style="color:#ffcc00; font-family:monospace;">🛠 Top Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfangalib&theme=dark&hide_border=true" 
          style="border-radius:10px;"/>
   </div>
 
-  <!-- Badges Panel -->
+  <!-- Achievements / Badges -->
   <div style="background-color:#1e1e2f; padding:10px; border-radius:15px; margin:15px 0; border: 2px solid #ff00ff;">
-    <h3 style="color:#ff00ff; font-family:monospace; margin-bottom:10px;">🏆 Achievements</h3>
-    <img src="https://img.shields.io/badge/3%20Zero%20Leader-Completed-blueviolet" />
-    <img src="https://img.shields.io/badge/WEB3-Hackathon-success" />
-    <img src="https://img.shields.io/badge/Fusion%20Infotech-Experience-green" />
+    <h3 style="color:#ff00ff; font-family:monospace;">🏆 Achievements</h3>
+    <img src="https://img.shields.io/badge/3%20Zero%20Leader-Completed-blueviolet" style="margin:3px;"/>
+    <img src="https://img.shields.io/badge/WEB3-Hackathon-success" style="margin:3px;"/>
+    <img src="https://img.shields.io/badge/Fusion%20Infotech-Experience-green" style="margin:3px;"/>
   </div>
 
 </div>
