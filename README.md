@@ -38,37 +38,8 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
-
-## 🕹 My GitHub RPG Dashboard
-
-### 💻 GitHub Stats
-![Irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfangalib&theme=dark&count_private=true)
-
-### 🔥 Streak
-![Irfan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=irfangalib&theme=dark)
-
-### 🛠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfangalib&theme=dark&hide_border=true)
-
-### 🏆 Achievements
-![Badge](https://img.shields.io/badge/3%20Zero%20Leader-Completed-blueviolet)
-![Badge](https://img.shields.io/badge/WEB3-Hackathon-success)
-![Badge](https://img.shields.io/badge/Fusion%20Infotech-Experience-green)
-
-</div>
-
-
-
-<div align="center" style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 20px; border-radius: 15px; display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfangalib&theme=radical&hide_border=true&count_private=false" style="border-radius: 10px; box-shadow: 0 0 20px #ff6ec4;" /><br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=irfangalib&theme=radical&hide_border=true" style="border-radius: 10px; box-shadow: 0 0 20px #7873f5;" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfangalib&theme=radical&hide_border=true&layout=compact" style="border-radius: 10px; box-shadow: 0 0 20px #ff6ec4;" />
-</div>
-
 
 <div align="center" style="background-color:#121212; padding:30px; border-radius:25px; width:fit-content; border: 3px solid #ffcc00;">
-  <h3 style="color:#ffcc00; font-family:monospace;">🚀 My GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=irfangalib&theme=tokyonight&hide_border=true&count_private=false" style="border-radius:15px; margin:10px 0;"/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=irfangalib&theme=tokyonight&hide_border=true" style="border-radius:15px; margin:10px 0;"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfangalib&theme=tokyonight&hide_border=true&layout=compact" style="border-radius:15px; margin:10px 0;"/>
