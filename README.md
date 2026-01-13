@@ -1,7 +1,7 @@
 
 <!-- ====================== HERO SECTION ====================== -->
-![Uploading Github Profile image.png…]()
 
+<img width="1280" height="640" alt="Github Profile image" src="https://github.com/user-attachments/assets/83af17ee-6e3e-48b3-80af-9d8f6d1c464c" />
 
 
 <p align="center">
