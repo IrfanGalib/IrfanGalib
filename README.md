@@ -1,4 +1,7 @@
+
 <!-- ====================== HERO SECTION ====================== -->
+<img width="1280" height="640" alt="Github Profile image" src="https://github.com/user-attachments/assets/89bf24c9-c06a-4cfa-915c-cadbaf911820" />
+
 
 <h1 align="center">Hi 👋, I'm Irfan Chowdhury</h1>
 
