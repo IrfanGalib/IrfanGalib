@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Blockchain+%7C+Web3+%7C+Full-Stack+Developer;MERN+Stack+Builder;Always+Learning+%7C+Always+Leveling+Up" />
 </p>
 
-<h3 align="center">I’m interested in Blockchain, Web3 & Full-Stack Development</h3>
-
-
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=irfangalib&label=Profile%20views&color=0e75b6&style=flat" alt="irfangalib" />
 </p>
